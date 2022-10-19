@@ -1,0 +1,2 @@
+module TestNGdemo1 {
+}
